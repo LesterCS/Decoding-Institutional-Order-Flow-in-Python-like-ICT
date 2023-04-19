@@ -3,7 +3,7 @@ Order Flow Indicator Inspired by Inner Circle Trader
 
 ## How to Use
 
-1. Open the Jupyter notebook `Institutional_Order_Flow_Example.ipynb` in Jupyter Notebook.
+1. Open the Jupyter notebook `Decoding Institutional Order Flow in Python.ipynb` in Jupyter Notebook.
 2. Run the cells sequentially to fetch historical data for the SPDR S&P 500 ETF (SPY) using yfinance, analyze institutional order flow, and visualize the results.
 3. Modify the code to analyze other stocks or ETFs, or adjust the parameters to fine-tune your analysis.
 
